@@ -1,4 +1,4 @@
-#Project DX: Dash eXtreme
+Project DX: Dash eXtreme
 
 Kale Wicks is a senior at SMU majoring in Creative Computing with a focus in psychology. Kale hopes to graduate from SMU and go into the graduate program Guildhall to get a master’s in game design. He seeks to create games that convey unique feelings and experiences through the use of coding, level design, and aesthetics.
 
